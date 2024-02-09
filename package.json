@@ -1,7 +1,6 @@
 {
-  "name": "clear-function",
+  "name": "matchers",
   "version": "1.0.0",
-  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/amfjlskx8oqunekm?svg=true)](https://ci.appveyor.com/project/Lozick13/matchers) # matchers",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
